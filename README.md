@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### You can view this page by this link
+
+https://sneakers-shop-converse.vercel.app/
